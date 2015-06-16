@@ -1,5 +1,5 @@
 ##Description  
-LearnPress Prerequisites is an add-on for LearnPress allow you to set prerequisite courses for a certain course in a LearnPress site.  
+**LearnPress Prerequisites** is an add-on for LearnPress allow you to set prerequisite courses for a certain course in a LearnPress site.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
@@ -33,6 +33,6 @@ LearnPress Prerequisites is an add-on for LearnPress allow you to set prerequisi
 **Can I create an add-on for LearnPress like *LearnPress Prerequisites Courses* by myself?**
 Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki">LearnPress github repo.</a>  
 
-== Other note ==  
+##Other note  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
 <a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a>  
